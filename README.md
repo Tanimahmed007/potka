@@ -1,0 +1,2 @@
+# potka
+FInal lab
